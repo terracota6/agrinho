@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#jaca1{
+  margin: 10px 15px 40px 680px;
+}
+ 
+body{
+  background-color: #F2E6A7;
+}
+
+#jaqueira{
+  height: 500px;
+  width: 340px;
+  margin: 0 0 0 680px;
+}
+
+h1{
+  text-align: center;
+}
+
+#prato1{
+  height: 310px;
+  margin: 0 0 0 150px;
+}
+
+#prato2{
+  height: 350px;
+  margin: 0 0 0 150px;
+}
